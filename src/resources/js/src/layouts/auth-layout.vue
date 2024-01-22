@@ -68,6 +68,7 @@
                   <Footer />
                   <!-- END FOOTER -->
               </div>
+              <ChatBot />
           </div>
           <!--  END CONTENT AREA  -->
       </div>
@@ -78,6 +79,7 @@
   import Sidebarauth from '@/components/layout/Sidebarauth.vue';
   import Header from '@/components/layout/Header.vue';
   import Footer from '@/components/layout/Footer.vue';
+  import ChatBot from '@/components/chatbot/chatbot.vue';
   import Setting from '@/components/ThemeCustomizer.vue';
   import appSetting from '@/app-setting';
 
